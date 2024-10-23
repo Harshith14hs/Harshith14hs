@@ -9,7 +9,7 @@
     <h1 align="center">Hi 👋, I'm Harshith HS</h1>
 <h3 align="center">Fond of building website's...</h3>
 
-- 🔭 I’m currently working on a webpage where user can get ready code of attractive designs of web pages *Ready-front*
+- 🔭 I’m currently working on a webpage where user can get ready code of attractive designs of web pages .<br>*Ready-front*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
