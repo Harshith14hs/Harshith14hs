@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on a webpage where user can get ready code of attractive designs of web pages .<br>*Ready-front*
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://www.linkedin.com/in/harshith-h-s-72120b339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
 <a href="https://instagram.com/harshith__devang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshith_devang" height="30" width="40" /></a>
 </p>
 
